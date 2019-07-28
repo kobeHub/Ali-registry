@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.0
 MAINTAINER Inno Jia <jdgets111@gmail.com>

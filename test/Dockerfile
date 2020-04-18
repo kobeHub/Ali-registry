@@ -1,2 +1,0 @@
-FROM stretch
-RUN

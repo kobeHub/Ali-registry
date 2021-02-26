@@ -1,5 +1,5 @@
 absl-py==0.7.1
-aiohttp==2.3.10
+aiohttp==3.7.4
 aliyun-python-sdk-core==2.13.5
 aliyun-python-sdk-core-v3==2.13.3
 aliyun-python-sdk-kms==2.7.1
